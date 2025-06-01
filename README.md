@@ -162,9 +162,9 @@ Special thanks to our talented development team who made this project possible:
 
 | Developer | GitHub Profile | Contribution |
 |-----------|----------------|--------------|
-| **Anselmus Herpin Hasugian** | [) | Algorithm Design & Implementation |
-| **Mario Fransiskus Sitepu** | [@mario_stp](https://github.com/MarioSitepu) | Core Logic & Optimization |
-| **Margareta Angela Manullang** | [) | Testing & Documentation |
+| **Anselmus Herpin Hasugian** |  | Algorithm Design & Implementation |
+| **Mario Fransiskus Sitepu** | [@MarioSitepu](https://github.com/MarioSitepu) | Core Logic & Optimization |
+| **Margareta Angela Manullang** |  | Testing & Documentation |
 
 </div>
 
