@@ -86,9 +86,6 @@ Follow these simple steps to get Genderuwo Bot up and running:
 # Download the source code
 git clone https://github.com/MarioSitepu/Tubes1_Sigma.git
 
-# Navigate to project directory
-cd Tubes1_Sigma/tubes1-IF2110-bot-starter-pack-1.0.1
-```
 
 #### 2️⃣ **Install Dependencies**
 ```bash
